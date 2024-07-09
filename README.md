@@ -6,7 +6,7 @@ El proyecto es un clon basico de la página dev.to desarrollado usando react par
 
 Se requiere tener instalado Node.js versión v20
 
-1. Clonar proyecto (frontend) desde el repositorio: git clone 
+1. Clonar proyecto (frontend) desde el repositorio: git clone https://github.com/jhesagacor/Kodemia-React-Desafio
 2. Desde la terminal ingresar al directorio del proyecto: cd proyecto
 3. Instalar todas las dependencias: npm install
 4. Clonar proyecto (backend) desde el repositorio: git clone https://github.com/jhesagacor/Kodemia-Backend-Desafio
