@@ -30,4 +30,5 @@ El repositorio del API utiliado en el proyecto se encuentra en el siguiente link
 ## DEMO
 
 Video: https://players.brightcove.net/6147389483001/tI5ppI9uj_default/index.html?videoId=6357193315112 
+Verce: https://kodemia-react-desafio-7j259d71d-jhesagacors-projects.vercel.app/
 
